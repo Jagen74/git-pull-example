@@ -1,2 +1,2 @@
-# Repository for practice git pull
+# Repository for practice git pull (testing)
 git pull exercise
